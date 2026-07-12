@@ -1,4 +1,6 @@
 body {
-    background-color: #822e2e;
-    color: yellow;
+    background-image: url("Ghast.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
