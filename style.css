@@ -1,5 +1,7 @@
 body {
-    background-color: #1a1a1a;
-    color: green;
+    background-image: url("Happy.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: yellow;
 }
-body
