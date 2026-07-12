@@ -2,3 +2,9 @@ body {
     background-color: #1a1a1a;
     color: green;
 }
+body {
+    background-image: url("hELLIE.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
